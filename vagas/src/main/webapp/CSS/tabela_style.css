@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 996px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(277, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+}
+#hd_principal {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    width: 996px;
+    height: 80px;
+    background-color: rgb(244, 244, 250);
+    justify-content:left;
+}
+#logo{
+    width:100px;
+    height: 80px;
+    padding: 0px 20px;
+    }
+    
+
+table{
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+    
+table tr th{
+    background-color: Oblack;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bolder;
+    font:medium;
+    color: white;
+}
+table tr td{
+    height: auto;
+    width:auto;
+    border: 1px solid black ;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: medium;
+}
+    
+#button1 {
+    background-color: #4CAF50;
+    font-size: 20px;
+    font:bolder;
+    color: I white;
+}
+    
